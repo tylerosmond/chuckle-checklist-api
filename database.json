@@ -24,6 +24,56 @@
       "id": 5,
       "text": "I failed math so many times at school, I can’t even count",
       "told": true
+    },
+    {
+      "text": "I only seem to get sick on weekdays. I must have a weekend immune system.",
+      "told": false,
+      "id": 6
+    },
+    {
+      "text": "What does a baby computer call his father? Data.",
+      "told": false,
+      "id": 7
+    },
+    {
+      "text": "I just found out I’m colorblind. The news came out of the purple!",
+      "told": false,
+      "id": 8
+    },
+    {
+      "text": "Of all the inventions of the last 100 years, the dry erase board has to be the most remarkable.",
+      "told": false,
+      "id": 9
+    },
+    {
+      "text": "Never date a tennis player. Love means nothing to them.",
+      "told": false,
+      "id": 10
+    },
+    {
+      "text": "I asked my wife if I was the only one she slept with. She said yes—the others were 7’s and 8’s.",
+      "told": false,
+      "id": 11
+    },
+    {
+      "text": "I just got my doctor's test results and I’m really upset. Turns out, I’m not gonna be a doctor.",
+      "told": false,
+      "id": 12
+    },
+    {
+      "text": "I’d like to have kids one day. I don’t think I could stand them any longer than that, though.",
+      "told": false,
+      "id": 13
+    },
+    {
+      "text": "I just read that someone in London gets stabbed every 52 seconds. Poor bastard.",
+      "told": false,
+      "id": 14
+    },
+    {
+      "text": "Where do dads store their dad jokes? In the dad-a-base.",
+      "told": false,
+      "id": 15
     }
   ]
 }
